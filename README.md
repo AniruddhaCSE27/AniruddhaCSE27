@@ -1,47 +1,38 @@
-# 👋 Hi, I'm Aniruddha Pathak
+# Hi, I'm Aniruddha Pathak 👋
 
-🚀 AI/ML Engineer | Building Real-World AI Systems  
-🎯 Focus: LLMs, RAG Systems, Applied Machine Learning  
+## AI/ML Engineer | B.Tech CSE (AI & ML)
 
----
+Building intelligent systems using Machine Learning, Deep Learning, LLMs, and AI Automation.
 
-## 🔥 Featured Project
+### Featured Projects
 
-### 🧠 ORION AI — Autonomous Research Engine
+🚀 ORION AI
+Multi-Agent AI Research Assistant with RAG and Web Search
 
-An advanced multi-agent RAG system that transforms a single query into a structured, source-grounded research report.
+🚀 LeadForge AI
+AI-Powered Sales Automation and Lead Management Platform
 
-⚡ Features:
-- Multi-agent pipeline (Planner → Researcher → Writer)
-- FAISS-based retrieval (RAG)
-- Real-time web search (Tavily)
-- Conversational memory
-- Structured outputs (Plan, Findings, Report, Sources)
-- PDF export
+🚀 LLM Code Review Assistant
+Diff-aware code review using LLMs and AST Analysis
 
-🌐 Live: https://orion-ai-ud4xwwwr3wsj8v4zgjvzag.streamlit.app/ 
-💻 Code: https://github.com/AniruddhaCSE27/orion-ai  
+🚀 Semantic Search Engine
+Vector Search using FAISS and Sentence Transformers
 
----
+🚀 Real-Time ML API
+Production-ready Machine Learning API with FastAPI and Docker
 
-## 🧠 Skills
+### Tech Stack
 
-- Python, SQL, Java
-- Machine Learning, Deep Learning
-- LLMs, RAG, Prompt Engineering
-- Data Analysis (Pandas, NumPy)
-- Streamlit, FastAPI
+Python • FastAPI • TensorFlow • PyTorch • LangChain • OpenAI
 
----
+PostgreSQL • Docker • Redis • FAISS • Streamlit • Git
 
-## 📊 Other Projects
+### Research
 
-- 📉 Customer Churn Prediction (ML + SMOTE + Streamlit)
-- 🏠 House Price Prediction System
-- 💳 Financial Reconciliation Tool
+Author of:
+"DualEdge Evolution: A Comprehensive Analysis of Artificial Intelligence's Impact on Modern Cybersecurity Defence Systems and Emerging Threats"
 
----
+### Connect
 
-## 📫 Connect with Me
-
-- Email: aniruddha.2005@outlook.com
+LinkedIn: linkedin.com/in/aniruddha-pathak
+GitHub: github.com/AniruddhaCSE27
